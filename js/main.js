@@ -233,7 +233,6 @@ $(function () {
 });
 
 $(function() {
-$('body').append('<div class="fix-bts" style=" position: fixed; top: 50vh; right: -74px; z-index: 1111; transition: all 0.2s ease 0s;"> <a target="blank" title="Check our portfolio on Themeforest" href="https://1.envato.market/JERja" class="fix-btn brand" style=" position: relative; margin-bottom: 5px; padding: 0 10px; display: block; height: 38px; line-height: 38px; background: #fff; text-transform: uppercase; font-size: 11px; box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1); font-weight: 700; text-decoration: none; color: #000; "><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="415.441px" height="415.441px" viewBox="0 0 415.441 415.441" xml:space="preserve" style=" width: 18px; height: 38px; display: inline-block; vertical-align: middle; margin-right: 10px; "> <g> <g> <path fill="#7cb342" d="M324.63,22.533C135.173,226.428,80.309,371.638,80.309,371.638c41.149,47.743,111.28,43.72,111.28,43.72 c73.921,2.31,119.192-43.522,119.192-43.522c91.861-92.516,80.549-355.302,80.549-355.302 C372.769-23.891,324.63,22.533,324.63,22.533z"></path> <path fill="#7cb342" d="M32.369,181.983c0,0-28.983,57.964,18.859,155.495L178.367,58.01C176.916,58.538,63.691,98.037,32.369,181.983z"></path> </g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> </svg>Beshleyua</a></div>');
 $('.fix-bts').on('mouseenter', function() {
 $('.fix-bts').css({'right':'0'});
 });
